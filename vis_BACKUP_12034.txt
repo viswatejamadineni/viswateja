@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 hi this is rome
+i am fine 
 how are you
 =======
+hi this is robot
+how are you 
 whats up
 >>>>>>> 4785db8792c0a50be7869d5aa0bcd116515d4c92
